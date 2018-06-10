@@ -1,0 +1,8 @@
+# /etc/yum.repos.d/local_yum.repo
+
+[localrepo]
+name=localrepo
+baseurl=ftp://192.168.191.1/redhat7.2
+#baseurl=file:///mnt/cdrom/
+enabled=1
+gpgcheck=0
