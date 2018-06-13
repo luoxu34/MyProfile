@@ -10,43 +10,43 @@
 
 * session保存到文件
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images1_sessions.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/1_sessions.png)
 
 * 禁止bell
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images2_bell_disable.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/2_bell_disable.png)
 
 * 设置窗口大小和行记录
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images3_size_and_line.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/3_size_and_line.png)
 
 * 设置字体类型和大小
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images4_font.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/4_font.png)
 
 * 开启全屏快捷键
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images5_behaviour.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/5_behaviour.png)
 
 * Ctrl+Etner才打开超链接
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images6_hyperlinks.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/6_hyperlinks.png)
 
 * 保持长连接
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images7_keepalives.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/7_keepalives.png)
 
 * 设置登陆用户名
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images8_login_username.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/8_login_username.png)
 
 * 启动压缩
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images9_compression.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/9_compression.png)
 
 * 使用SSH认证登陆
 
-    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images10_pem.png)
+    ![](https://github.com/luoxu34/MyProfile/blob/master/putty_tray/images/10_pem.png)
 
 * 配色 Color Scheme
 
