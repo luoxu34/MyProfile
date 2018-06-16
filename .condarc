@@ -1,0 +1,12 @@
+# 文件 ~/.condarc
+# 命令
+#   conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+#   conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+#   conda config --set show_channel_urls yes
+# 参考 https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
+
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+show_channel_urls: true
