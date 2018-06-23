@@ -50,7 +50,7 @@
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy luoxu34 2018",
-            "modify_label": "Last Modify Time：",
+            "modify_label": "committed on",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     },
