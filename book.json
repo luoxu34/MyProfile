@@ -1,0 +1,59 @@
+{
+    "title": "xxxx",
+    "description": "",
+    "author": "luoxu34 <zhang_zengjie@outlook.com>",
+    "extension": null,
+    "generator": "site",
+    "language" : "zh-hans",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null
+        }
+    },
+    "output": null,
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 18,
+        "paperSize": "a4",
+        "margin": {
+          "right": 30,
+          "left": 30,
+          "top": 30,
+          "bottom": 50
+        }
+    },
+    "plugins": [
+        "anchor-navigation-ex",
+        "edit-link",
+        "github",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "splitter",
+        "tbfed-pagefooter",
+        "theme-comscore"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "edit-link": {
+            "base": "https://github.com/USER/REPO/edit/BRANCH",
+            "label": ""
+        },
+        "github": {
+            "url": "https://github.com/your/repo"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy luoxu34 2018",
+            "modify_label": "Last Modify Time：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    },
+    "variables": {}
+}
+
