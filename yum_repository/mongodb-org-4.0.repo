@@ -1,0 +1,7 @@
+[mongodb-org-4.0]
+name=MongoDB Repository
+baseurl=http://mirrors.aliyun.com/mongodb/yum/redhat/$releasever/mongodb-org/4.0/$basearch/
+#baseurl=http://mirrors.cloud.aliyuncs.com/mongodb/yum/redhat/$releasever/mongodb-org/4.0/$basearch/
+gpgcheck=0
+enabled=1
+
