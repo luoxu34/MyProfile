@@ -40,3 +40,7 @@ bindkey "\e[H" beginning-of-line
 bindkey "\e[F" end-of-line
 # completion in the middle of a line
 bindkey '^i' expand-or-complete-prefix
+
+# my alias
+alias pp="ps -ef|grep python|grep -v ' grep '"
+
