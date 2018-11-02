@@ -278,7 +278,10 @@ set fileencoding=utf-8
 set fileencoding=utf-8
 set fileencodings=utf-8,gbk,gb2312,cp936,usc-bom,euc-jp,gb18030
 
-let mapleader = ","
+let mapleader = "\<Space>"
+
+" 常见快捷键
+nnoremap <Leader>w :w<CR>
 
 " insert模式下光标移动快捷键
 inoremap <C-b> <Left>
