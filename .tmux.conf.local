@@ -26,9 +26,9 @@ bind C-a send-prefix
 
 # 分屏快捷键
 unbind '"'
-bind - splitw -v
+bind '-' splitw -v
 unbind %
-bind \ splitw -h
+bind '\' splitw -h
 
 # 使用Alt+方向键快速切换面板
 bind -n    M-Up select-pane -U
